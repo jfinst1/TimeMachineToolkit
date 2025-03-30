@@ -1,7 +1,7 @@
 # TimeMachineToolkit
-**From a brain infection to coding a time machine—this is my Python odyssey.**
+**This is my Python odyssey.**
 
-Two years ago, a brain infection flipped a switch in my head. After a sleepless week, math became effortless—I could *see* how the universe flows. What started with Python in ’97 (after 6502 Assembly, BASIC, C, and more) turned into this: a toolkit for navigating spacetime, visualizing dimensions, and chatting across time. This repo is my journey—part code, part vision. Dive in, but respect the rules: research yes, profit no.
+What started with Python in ’97 (after 6502 Assembly, BASIC, C, and more) turned into this: a toolkit for navigating spacetime, visualizing dimensions, and chatting across time. This repo is my journey—part code, part vision. Dive in, but respect the rules: research yes, profit no.
 
 ## What’s Inside
 Four wild Python projects, born from epiphany and dreams:
@@ -23,7 +23,7 @@ Four wild Python projects, born from epiphany and dreams:
    *Demo:* [Insert GIF link]
 
 ## Why This Exists
-Post-infection, I saw math as code—flowing, connected, alive. These scripts are me wrestling that vision into reality: visualizing 4D, coding quantum chaos, steering spacetime, talking through time. It’s not just tech—it’s what happens when your brain rewires and says, “Build it.”
+These scripts are me wrestling a wild vision into reality: visualizing 4D, coding quantum chaos, steering spacetime, talking through time. It’s not just tech—it’s what happens when your brain rewires and says, “Build it.”
 
 ## How to Run
 Clone this repo and dive in. Each folder has its own vibe—check the scripts for details.
@@ -46,7 +46,6 @@ Licensed under the **TimeMachineToolkit License (TMTL)**—see [LICENSE](LICENSE
 ## Get Involved
 - **Run It**: Play with the sliders, send a “1010” across time, tweak the dimensions.
 - **Talk to Me**: X (@[YourHandle]), email ([YourEmail]), or GitHub issues. Quantum nerds, sci-fi coders, job offers—let’s chat.
-- **See the Story**: Full convo with Grok (xAI’s AI) in [CONVERSATION.md](CONVERSATION.md)—how this all came to be.
 
 ## What’s Next?
 Maybe real quantum hardware. Maybe a time coordinate mapper. Maybe you tell me. This is just the start—where’s it take you?
