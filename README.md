@@ -11,7 +11,7 @@ Four wild Python projects, born from epiphany and dreams:
    *Demo:* [Insert GIF link]
 
 2. **Quantum Dream Script** (`/quantum_dream`)  
-   Dreamt on Vicodin—quantum circuits (Qiskit) spitting random numbers into spacetime equations, plotted as 3D scatters. Purple skies, judgment day, pure madness.  
+   Circuits (Qiskit) spitting random numbers into spacetime equations, plotted as 3D scatters. Purple skies, judgment day, pure madness.  
    *Demo:* [Insert GIF link]
 
 3. **Time Machine Control Software** (`/time_control`)  
