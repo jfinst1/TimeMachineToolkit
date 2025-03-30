@@ -6,19 +6,19 @@ What started with Python in ’97 (after 6502 Assembly, BASIC, C, and more) turn
 ## What’s Inside
 Four wild Python projects, born from epiphany and dreams:
 
-1. **Wave Simulation** (`/wave_sim`)  
+1. **Wave Simulation** (`/wavecycle`)  
    A 3D interactive visualizer of waves and particles—sine, square, triangle, sawtooth—dancing with interference. Sliders, trails, chaos. My first glimpse of the universe’s pulse.  
    *Demo:* [Insert GIF link]
 
-2. **Quantum Dream Script** (`/quantum_dream`)  
+2. **Quantum Dream Script** (`/dreamcode`)  
    Circuits (Qiskit) spitting random numbers into spacetime equations, plotted as 3D scatters. Purple skies, judgment day, pure madness.  
    *Demo:* [Insert GIF link]
 
-3. **Time Machine Control Software** (`/time_control`)  
+3. **Time Machine Control Software** (`/chronowarp`)  
    The cockpit: symbolic quantum gates (SymPy) meet numeric state transitions (NumPy) in a Tkinter GUI. Navigate 4th, 5th, 6th dimensions—because time travel needs controls.  
    *Demo:* [Insert GIF link]
 
-4. **Quantum Chat System** (`/quantum_chat`)  
+4. **Quantum Chat System** (`/multiversecom`)  
    Entangled particles (QuTiP) encode binary messages, sent over sockets. Client/server setup—chat across timelines with repetition codes for stability. Time machine comms, live.  
    *Demo:* [Insert GIF link]
 
