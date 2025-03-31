@@ -33,13 +33,6 @@ Clone this repo and dive in. Each folder has its own vibe—check the scripts fo
 - Libraries: `numpy`, `matplotlib`, `qiskit`, `qutip`, `sympy`, `tkinter` (most via `pip install`)
 - For Quantum Chat: Run `server.py` first (`python server.py`), then `client.py` (`python client.py localhost 9999`) in separate terminals.
 
-### Quick Start
-- Wave Sim: `python wave_sim/wave_simulation.py`
-- Quantum Dream: `python quantum_dream/quantum_dream.py`
-- Time Control: `python time_control/time_control.py`
-- Quantum Chat Server: `python quantum_chat/server.py`  
-  Client: `python quantum_chat/client.py localhost 9999`
-
 ## License
 Licensed under the **TimeMachineToolkit License (TMTL)**—see [LICENSE](LICENSE). Free for research, education, and personal use. No commercial profit without my say. Respect the vibe.
 
