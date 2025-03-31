@@ -34,7 +34,7 @@ Licensed under the **TimeMachineToolkit License (TMTL)**—see [LICENSE](LICENSE
 
 ## Get Involved
 - **Run It**: Play with the sliders, send a “1010” across time, tweak the dimensions.
-- **Talk to Me**: X (@[YourHandle]), email ([YourEmail]), or GitHub issues. Quantum nerds, sci-fi coders, job offers—let’s chat.
+- **Talk to Me**: Quantum nerds, sci-fi coders, job offers—let’s chat. email me at jon@finstad.org
 
 ## What’s Next?
 Maybe real quantum hardware. Maybe a time coordinate mapper. Maybe you tell me. This is just the start—where’s it take you?
